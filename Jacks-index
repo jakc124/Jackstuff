@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf8">
+<title>Jack's index</title>
+
+<style>
+h1{color:blue;}
+</style>
+</head>
+<body>
+<h1>Were do you want to go?</h1>
+<a href="file:///C:/Users/harpe/Documents/best_programs.html">Best programs to install</a><br>
+<a href="file:///C:/Users/harpe/Documents/pets_names.html">Our pets' names</a><br>
+<a href="file:///C:/Users/harpe/Documents/tutorials.html">Tutorials</a><br>
+<a href="file:///C:/Users/harpe/Documents/pc-in-desk.html">Computer in a desk</a><br>
+<a target="blank" href="file:///C:/Users/harpe/Documents/1001/index.html">1001</a> <br>
+<a target="blank" href="https://www.youtube.com">YouTube</a><br>
+<a target="blank" href="https://www.khanacademy.org">Kahn Academy</a> <br>
+<p>Today's date is </p>
+<script>
+<!--
+var currentTime = new Date()
+var month = currentTime.getMonth() + 1
+var day = currentTime.getDate()
+var year = currentTime.getFullYear()
+document.write(month + "/" + day + "/" + year)
+//-->
+</script>
+</body>
+</html>
